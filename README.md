@@ -13,4 +13,4 @@
 | 2019.9.18  | 快速了解一门学问、“快糙猛”实现最简搜索 |  [Lecture 2](https://www.bilibili.com/video/av67367419/?p=2) | [class_2.ipynb](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/class_2.ipynb) |
 | 2019.9.25  | 简单搜索实现的进化(第一阶段) | [Lecture 3](https://www.bilibili.com/video/av67367419/?p=3) | [class_3.ipynb](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/class_3.ipynb) |
 | 2019.10.9  | 最简搜索代码重构与倒排索引入门 | [Lecture 4](https://www.bilibili.com/video/av67367419/?p=4) | [class_4.ipynb](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/class_4.ipynb) |
-| 2019.10.16  | 倒排索引实现的重构、混合布尔查询的处理 | [Lecture 4](https://www.bilibili.com/video/av67367419/?p=5) | [class_4.ipynb](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/class_5.ipynb) |
+| 2019.10.16  | 倒排索引实现的重构、混合布尔查询的处理 | [Lecture 5](https://www.bilibili.com/video/av67367419/?p=5) | [class_5.ipynb](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/class_5.ipynb) |
