@@ -16,4 +16,4 @@
 | 2019.10.16  | 倒排索引实现的重构、混合布尔查询的处理 | [L5](https://www.bilibili.com/video/av67367419/?p=5) | [C5](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/notebooks/class_5.ipynb) |
 | 2019.10.23  | 自定义文本解析器的实现 | [L6](https://www.bilibili.com/video/av67367419/?p=6) | [C6](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/notebooks/class_6.ipynb) |
 | 2019.10.30  | 自定义查询解析器的实现 | [L7](https://www.bilibili.com/video/av67367419/?p=7) | [C7](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/notebooks/class_7.ipynb) |
-| 2019.11.6  | 分词基础与高亮重构 | [L8](https://www.bilibili.com/video/av67367419/?p=8) | [C8](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/notebooks/class_8.ipynb) |
+| 2019.11.6  | 分词基础与高亮重构 ![第八课思维导图](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/images/class_8_mm.jpg)| [L8](https://www.bilibili.com/video/av67367419/?p=8) | [C8](https://github.com/fly51fly/Principle-of-Web-Search/blob/master/notebooks/class_8.ipynb) |
